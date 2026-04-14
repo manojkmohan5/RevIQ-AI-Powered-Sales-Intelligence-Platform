@@ -1,8 +1,8 @@
-# RevIQ — AI-Powered Sales Intelligence Platform
+# SalesGPT-AI Chat Agent for Sales Pipeline Analytics
 
 > Ask your CRM data anything. In plain English.
 
-RevIQ is a full-stack sales analytics platform that combines a local data warehouse, an interactive KPI dashboard, and a conversational AI agent. Powered by LangChain, DuckDB, and a fully local Ollama LLM — no API keys, no cloud dependency.
+SalesGPT is a full-stack sales analytics platform that combines a local data warehouse, an interactive KPI dashboard, and a conversational AI agent. Powered by LangChain, DuckDB, and a fully local Ollama LLM — no API keys, no cloud dependency.
 
 ![Tech Stack](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain) ![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-blueviolet)
 
