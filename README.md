@@ -155,6 +155,3 @@ RevIQ runs 100% on your machine — no OpenAI key, no cloud database, no externa
 
 ---
 
-## License
-
-MIT
