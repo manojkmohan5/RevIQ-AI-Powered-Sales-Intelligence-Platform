@@ -10,7 +10,7 @@ SalesGPT is a full-stack sales analytics platform that combines a local data war
 
 ## What It Does
 
-RevIQ lets anyone — technical or not — explore sales pipeline data through three layers:
+SalesGPT lets anyone — technical or not — explore sales pipeline data through three layers:
 
 - **Live KPI Dashboard** — Total pipeline revenue, win rates, regional breakdowns, and top rep performance, visualized in a modern dark-themed UI.
 - **AI Chat Agent** — Type a question like *"Who closed the most deals in APAC?"* and get a plain-English answer, the SQL that was run, and the raw data — all in one shot.
@@ -63,8 +63,8 @@ RevIQ lets anyone — technical or not — explore sales pipeline data through t
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/reviq.git
-cd reviq
+git clone https://github.com/your-username/salesgpt.git
+cd salesgpt
 ```
 
 ### 2. Set up the Python backend
@@ -129,7 +129,7 @@ ollama pull phi3:mini
 ## Project Structure
 
 ```
-reviq/
+salesgpt/
 ├── backend/
 │   └── app.py              # FastAPI server + LangChain SQL agent
 ├── frontend/
@@ -151,7 +151,7 @@ reviq/
 
 ## Why Local-First?
 
-RevIQ runs 100% on your machine — no OpenAI key, no cloud database, no external API calls. This makes it a privacy-safe, cost-free demo of production-grade AI analytics patterns that you can run, fork, and extend freely.
+ runs 100% on your machine — no OpenAI key, no cloud database, no external API calls. This makes it a privacy-safe, cost-free demo of production-grade AI analytics patterns that you can run, fork, and extend freely.
 
 ---
 
